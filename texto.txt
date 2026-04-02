@@ -1,0 +1,6 @@
+https://github.com/giovannimedeiros-bit/aula-02-04-2026
+git clone https://github.com/giovannimedeiros-bit/aula-02-04-2026
+git status
+git add .
+git commit -m "adicionar arquivo"
+git push
